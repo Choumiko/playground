@@ -1,0 +1,10 @@
+{
+  "name": "ChoumikoTest",
+  "version": "0.0.1",
+  "factorio_version": "0.13",
+  "title": "Choumiko Testmod",
+  "author": "Choumiko",
+  "homepage": " ",
+  "description": "Messing around",
+  "dependencies": ["base >= 0.13.13]
+}
